@@ -2,9 +2,9 @@
 
 ---
 
-<h3>I'm Kaushambha and here are some cool things about me : </h3>
+<h3>Here are some cool things about me : </h3>
 <ul>
-<li> :man_office_worker: Working as Full Stack Developer at Rentomojo</li>
+<li> :man_office_worker: Full Stack Developer at Rentomojo</li>
 <li> :man_technologist: Experienced in developing web apps with MEAN stack technologies</li>
 <li> :man_student: Graduated from Lovely Professional University(B.Tech CSE) in 2022</li>
 <li> :open_book: Currently exploring devops technologies such as Docker and Kubernetes</li>
