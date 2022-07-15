@@ -52,5 +52,4 @@
 ---
 
 ![Kaushambha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushambha&count_private=true&show_icons=true&theme=codeSTACKr)
-&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushambha&theme=codeSTACKr)](https://github.com/Kaushambha/github-readme-stats)
