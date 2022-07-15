@@ -2,7 +2,7 @@
 
 ---
 
-<h3>This is Kaushambha and I am : </h3>
+<h3>I'm Kaushambha and here are some cool things about me : </h3>
 <ul>
 <li> :man_office_worker: Working as Full Stack Developer at Rentomojo</li>
 <li> :man_technologist: Experienced in developing web apps with MEAN stack technologies</li>
