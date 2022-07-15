@@ -48,3 +48,5 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50"/>
  &nbsp
 </div>
+![Kaushambha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushambha&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushambha)](https://github.com/kaushambha/github-readme-stats)
