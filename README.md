@@ -1,7 +1,4 @@
-<h2>Hey there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"/></h2>
-
----
-
+<h1>Hey there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"/></h1>
 <h3>Here are some cool things about me : </h3>
 <ul>
 <li> :man_office_worker: Full Stack Developer at Rentomojo</li>
