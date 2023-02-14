@@ -1,11 +1,10 @@
 <h1>Hey there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"/></h1>
 <h3>Here are some cool things about me : </h3>
 <ul>
-<li> :man_office_worker: Full Stack Developer at Rentomojo</li>
-<li> :man_technologist: Experienced in developing web apps with MEAN stack technologies</li>
-<li> :man_student: Graduated from Lovely Professional University(B.Tech CSE) in 2022</li>
+<li> :man_office_worker: Full Stack Developer</li>
+<li> :man_technologist: Experienced in developing web apps with MEAN stack technologies and Flutter</li>
 <li> :open_book: Currently exploring devops technologies such as Docker and Kubernetes</li>
-<li> :iphone: Interested in developing apps that solves real world problems efficiently</li>
+<li> :iphone: Interested in developing apps that solves real world problems quickly & efficiently</li>
 </ul>
 
 ---
