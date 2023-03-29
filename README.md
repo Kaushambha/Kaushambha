@@ -2,7 +2,7 @@
 <h3>Here are some cool things about me : </h3>
 <ul>
 <li> :man_office_worker: Full Stack Developer</li>
-<li> :man_technologist: Experienced in developing web apps with MEAN stack technologies and Flutter</li>
+<li> :man_technologist: Experienced in developing web apps with MEAN stack technologies</li>
 <li> :open_book: Currently exploring devops technologies such as Docker and Kubernetes</li>
 <li> :iphone: Interested in developing apps that solves real world problems quickly & efficiently</li>
 </ul>
