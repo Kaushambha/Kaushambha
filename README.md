@@ -25,8 +25,6 @@
  &nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
  &nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50"/>
- &nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
  &nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50"/>
